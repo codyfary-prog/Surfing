@@ -1,5 +1,6 @@
 # Surfing
-Surfing pictures 
+Surfing pictures
+<p>
  <div class="photo">
             <img src="https://loremflickr.com/800/600/surfing?lock=4">
             <h3>Surf Session</h3>
@@ -17,6 +18,6 @@ Surfing pictures
 
     </div>
 </div>
-
+</p>
 </body>
 </html>
