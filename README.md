@@ -1,22 +1,22 @@
 # Surfing
 Surfing pictures 
-  <div class="photo">
-            <img src="https://images.unsplash.com/photo-1510414842594-a61c69b5ae57?auto=format&fit=crop&w=1000&q=80">
-            <div class="caption">Beach Day</div>
+ <div class="photo">
+            <img src="https://loremflickr.com/800/600/surfing?lock=4">
+            <h3>Surf Session</h3>
         </div>
 
         <div class="photo">
-            <img src="https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1000&q=80">
-            <div class="caption">Chasing Waves</div>
+            <img src="https://loremflickr.com/800/600/surfing?lock=5">
+            <h3>Sunset Surf</h3>
+        </div>
+
+        <div class="photo">
+            <img src="https://loremflickr.com/800/600/surfing?lock=6">
+            <h3>Chasing Waves</h3>
         </div>
 
     </div>
-
-</section>
-
-<footer>
-    🌴 Surf Paradise © 2026
-</footer>
+</div>
 
 </body>
 </html>
